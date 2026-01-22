@@ -2,8 +2,8 @@ import hashlib
 import hmac
 import base64
 import time
-data = "18007"
-secretkey = "2a07dab4dbf66725329d4890966d6457"
+data = ""
+secretkey = ""
 
 
 timestamp = str(int(time.time()))
